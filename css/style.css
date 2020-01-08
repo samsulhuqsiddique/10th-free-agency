@@ -1,0 +1,430 @@
+*{
+	margin:0px;
+	padding: 0px;
+
+}
+section {
+    padding: 50px 0;
+}
+
+header {
+    padding: 0px 0 0px;
+}
+.header-icon{
+   background-color: #f0f2f4;
+    padding: 5px 0px;
+    text-align: right;
+}
+
+.header-icon .fa.fa-facebook{
+ padding: 3px 7px;
+    background: #1287bf;
+    display: inline;
+    font-size: 15px;
+    border-radius: 3px;
+}
+
+.header-icon p {
+    display: inline;
+    font-size: 13px;
+    margin: 0px 3px;
+}
+.header-icon .fa.fa-envelope{
+    margin: 5px 6px;
+}
+.head{
+	background-color: #f0f2f4;
+}
+.nav-head{
+	    background: white !important;
+	    padding: 13px 0px;
+}
+
+.nav-link {
+    color: black!important;
+    font-weight: bold;
+    font-size: 18px;
+    margin: 5px;
+}
+.btn-nav{
+	background: #DE2B24;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+
+.banner-b{
+
+	background-image: url(../img/b.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.bnr {
+   color: white;
+    text-align: center;
+}
+
+.bnr p{
+      font-size: 30px;
+}
+
+.bnr h2{
+      font-size: 45px;
+}
+.btn-bn{
+    background: #F8CD53;
+    margin-top: 40px;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
+.about-cnt{
+    text-align: center;
+}
+.about-cnt h3 {
+   	margin-top: 35px;
+    font-size: 35px;
+    color: #424242;
+}
+.about-cnt p {
+    font-size: 20px;
+    color: #424242;
+}
+.about-cnt span {
+    border-bottom: 4px solid #424242;
+    display: block;
+    width: 50px;
+    margin: 0 auto;
+}
+
+.face{
+    text-align: center;
+    margin: 40px 0px;
+}
+.face img {
+    height: 35%;
+    margin: 13px 0px;
+}
+.face h3 {
+        margin: 15px 0px;
+    font-weight: bold;
+}
+.face p {
+	font-size: 20px;
+}
+.approch-cnt{
+	text-align: center;
+}
+.approch-cnt h3 {
+font-size: 40px;
+}
+.approch-cnt p {
+margin: 10px 0px;
+    font-size: 20px;
+}
+.approch-cnt span{
+	border-bottom: 4px solid #424242;
+    display: block;
+    width: 50px;
+    margin: 0 auto;
+}
+.bk-clr{
+	background-color: #f3f3f3;
+}
+.no-padding{
+	padding: 0px !important;
+}
+.app-pic{
+	position: relative;
+}
+.app-pic img {
+ width: 100%;
+}
+.child{
+	position: absolute;
+    background: #de2b24;
+    top: 83px;
+    left: 330px;
+    text-align: center;
+    padding: 7px 30px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.child h4 {
+    display: inline;
+    font-weight: bold;
+    font-size: 30px;
+}
+.child p {
+	
+}
+.ap-cnt{
+        margin: 2px 27px 0px 43px;
+}
+.ap-cnt h6 {
+    margin: 84px 0px 0px 25px;
+    font-weight: bold;
+}
+.ap-cnt p {
+	    margin: 10px 0px 0px 25px;
+}
+
+.bk-white{
+	background: white;
+    border: 1px solid #80808026;
+    margin-top: 50px;
+}
+
+.left{
+
+}
+
+.child-left{
+	position: absolute;
+    background: #de2b24;
+    top: 83px;
+    padding: 7px 30px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    right: 328px;
+    text-align: center;
+}
+.child-left h4{
+ 	display: inline;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: right;
+}
+
+.ap-cpt{
+	text-align: right;
+}
+
+.ap-cpt h6{
+font-weight: bold;
+    margin: 84px 50px 0px 0px;
+}
+
+.ap-cpt p{
+margin: 10px 50px 0px 0px;
+}
+
+.work-bk{
+    background: #de2b24;
+}
+
+.work-cnt{
+           text-align: center;
+    color: white;
+}
+.work-cnt h3{
+    font-weight: bold;
+    font-size: 30px;
+}
+.work-cnt p {
+    font-size: 17px;
+}
+.work-cnt span {
+    border-bottom: 4px solid white;
+    display: block;
+    width: 50px;
+    margin: 0 auto;
+}
+
+.cur-pic{
+        margin-top: 50px;
+}
+.cur-pic img {
+  width: 100%;
+}
+.pading{
+    padding: 0px 0px !important;
+    background-color: #F35E59;
+}
+
+.cur-pi{
+
+}
+.cur-pi img {
+    width: 100%;
+}
+
+.fb-als{
+    background-color: #1287bf;
+}
+.fb-cnt{
+    color: white;
+    text-align: center;
+}
+
+.fb-cnt h3{
+
+}
+.fb-cnt p{
+
+}
+.fb-cnt .fa.fa-chevron-down{
+    padding: 10px;
+    background: #ff000000;
+    border: 2px solid #ffffff;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+.fb-form{
+    background: white;
+    padding: 40px 44px;
+    font-size: 18px;
+
+}
+.fb-form p{
+        color: gray;
+}
+.form-ctrl{
+    width: 93%;
+    margin: 10px 0px;
+    height: 40px;
+}
+
+::placeholder{
+    color:gray;
+    padding-left: 15px;
+}
+
+.fb-btn{
+   background: #DE2B24;
+    color: white;
+    border-radius: 2px;
+    margin: 28px 250px;
+    padding: 9px 20px;
+    font-size: 18px; 
+}  
+
+.touch-bk{
+ background-color: #2a2a2a;
+}
+
+.touch{
+    color: white;
+    text-align: center;
+}
+.touch h4 {
+
+}
+.touch p{
+      margin: 20px 0px;
+}
+
+.th-btn{
+    background: #de2b2400;
+    color: white;
+    border-radius: 2px;
+    padding: 5px 23px;
+    font-size: 18px;
+    border: 1px solid white;
+    margin-top: 35px;
+}
+
+.form-ctr{
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    background: #515151;
+    border: none;
+    height: 35px;
+}
+
+.touch .fa.fa-facebook{
+    padding: 7px 12px;
+    background: #6633990d;
+    border: 1px solid white;
+    margin: 8px 5px;
+}
+.touch .fa.fa-facebook:hover{
+   border:1px solid red;
+   cursor: pointer;
+}
+.touch .fa.fa-twitter{
+       padding: 7px 12px;
+    background: #6633990d;
+    border: 1px solid white;
+    margin: 8px 5px; 
+}
+.touch .fa.fa-twitter:hover{
+   border:1px solid red;
+   cursor: pointer;
+}
+.touch .fa.fa-skyatlas{
+        padding: 7px 12px;
+    background: #6633990d;
+    border: 1px solid white;
+    margin: 8px 5px;
+}
+.touch .fa.fa-skyatlas:hover{
+   border:1px solid red;
+   cursor: pointer;
+}
+.touch .fa.fa-linkedin{
+      padding: 7px 12px;
+    background: #6633990d;
+    border: 1px solid white;
+    margin: 8px 5px;  
+}
+.touch .fa.fa-linkedin:hover{
+   border:1px solid red;
+   cursor: pointer;
+}
+
+.foot{
+    background: #515151;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.foot-cnt{
+
+}
+.foot-cnt p {
+margin-top: 10px;
+}
+
+@media (min-width: 0px) and (max-width: 500px){
+.fb-btn {
+    background: #DE2B24;
+    color: white;
+    border-radius: 2px;
+    margin: 28px 37px;
+    padding: 9px 20px;
+    font-size: 18px;
+}
+.child {
+    position: absolute;
+    background: #de2b24;
+    top: 172px;
+    left: 0px;
+    text-align: center;
+    padding: 0px 21px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.child-left {
+    position: absolute;
+    background: #de2b24;
+    top: 173px;
+    padding: 0px 24px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    right: 0px;
+    text-align: center;
+}
+.ap-cpt p {
+    margin: 10px 19px 0px 0px;
+}
+
+}
